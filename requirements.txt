@@ -1,0 +1,9 @@
+pytest
+pandas
+requests
+scikit-learn
+nltk
+pyyaml
+dotmap
+envoy
+ipykernel

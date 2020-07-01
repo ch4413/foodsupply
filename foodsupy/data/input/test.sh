@@ -1,0 +1,2 @@
+FILE1="$1"
+ls FILE1

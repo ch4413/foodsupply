@@ -1,0 +1,5 @@
+name: pipeline_config
+
+path: /Users/chughes/Documents/DS/git_dirs/fs_imdb/classipy/data/input/create_data_bash.sh
+
+dir: ./data/aclImdb
